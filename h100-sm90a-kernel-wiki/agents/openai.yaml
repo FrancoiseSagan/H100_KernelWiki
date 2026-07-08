@@ -1,0 +1,4 @@
+interface:
+  display_name: "H100 SM90A Kernel Wiki"
+  short_description: "H100 TMA/WGMMA kernel guidance"
+  default_prompt: "Use $h100-sm90a-kernel-wiki to design an H100 kernel using TMA, WGMMA, and SM90A synchronization."
